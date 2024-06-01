@@ -18,7 +18,7 @@ Follow these steps to install the application:
 1. **Clone the repository**
 
    ```bash
-   git clone [repo_link](https://github.com/katlegorphele/YoutubeDownloader)
+   git clone https://github.com/katlegorphele/YoutubeDownloader
    ```
    
 2. **Navigate to the project directory**
