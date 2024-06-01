@@ -26,7 +26,7 @@ Follow these steps to install the application:
    Change your current directory to the project directory:
 
    ```bash
-   cd TubeDude
+   cd YoutubeDownloader
    ```
 
 3. **Install the dependencies**
