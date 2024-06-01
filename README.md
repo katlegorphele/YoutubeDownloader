@@ -70,12 +70,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Feel free to reach out to me on my social media platforms:
 
-<a href="https://twitter.com/katlegorphele">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png" alt="Twitter" width="20" height="20">
+<a href="https://twitter.com/katlegorphele" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png" alt="Twitter" width="30" height="30">
 </a>
-<a href="https://linkedin.com/in/katlegorphele">
-    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="20" height="20">
+<a href="https://linkedin.com/in/katlegorphele" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="30" height="30">
 </a>
-<a href="mailto:katlegorphele@gmail.com">
-    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Email" width="20" height="20">
+<a href="mailto:katlegorphele@gmail.com" target="_blank">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Email" width="30" height="30">
 </a>
